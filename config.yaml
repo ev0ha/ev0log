@@ -1,0 +1,28 @@
+baseURL: ""
+languageCode: en-us
+title: ev0log
+theme: m10c
+
+#menu:
+#  main:
+#    - identifier: posts
+#      name: Posts
+#      url: /posts/
+#      weight: 10
+#    - identifier: archives
+#      name: Archive
+#      url: /archive/
+#      weight: 20
+#    - identifier: categories
+#      name: Categories
+#      url: /categories/
+#      weight: 30
+
+params:
+  description: 'Welcome to my blog! I''m a hobbyist and will mostly write about basic topics related to
+    programming and devops as I learn along the way.'
+  menu_item_separator: ' - '
+  social:
+    - icon: github
+      name: Github
+      url: 'https://github.com/gohugoio'
